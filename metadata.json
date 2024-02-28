@@ -1,8 +1,5 @@
 {
   "schema:name": "Tool XYZ",
   "schema:isAccessibleForFree": "true",
-  "schema:codeRepository": "https://github.com/MarekSuchanek/ToolXYZ",
-  "schema:licenses": [
-    "apache2"
-  ]
+  "schema:codeRepository": "https://github.com/MarekSuchanek/ToolXYZ"
 }
